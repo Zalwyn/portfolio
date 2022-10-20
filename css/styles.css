@@ -1,0 +1,16 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.title-section{
+    
+}
+.navbar{
+    background-color: #00092c;
+}
+.home-banner{
+    background-color: #faf0ca;
+}
+.brand-logo{
+    height: 50px;
+  }
