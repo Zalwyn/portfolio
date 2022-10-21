@@ -1214,6 +1214,14 @@ footer{
   background-color: #00D9A5;
   color: #fff;
 }
+@media(max-width:380px){
+  .list-ico{
+   margin-right: 25px;
+   text-align: left;
+   font-size: .9rem;
+   padding-left: 5px;
+  }
+}
 
 .owl-carousel .owl-nav button.owl-next {
   padding-right: 14px !important;
