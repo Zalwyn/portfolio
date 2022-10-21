@@ -1234,3 +1234,11 @@ footer{
   padding-left: 14px !important;
   border-radius: 40px 0 0 40px;
 }
+@media(max-width:380px){
+  .list-ico{
+   margin-right: 25px;
+   text-align: left;
+   font-size: .9rem;
+   padding-left: 5px;
+  }
+}
